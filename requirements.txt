@@ -1,0 +1,9 @@
+numpy
+gensim
+scikit-learn
+luigi
+chardet
+pandas
+lightgbm
+gokart
+redshells
